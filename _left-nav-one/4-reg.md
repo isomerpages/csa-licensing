@@ -1,4 +1,4 @@
 ---
-Title: Reg
-Permalink: /left-nav-one/Reg/
+title: Reg
+permalink: /left-nav-one/reg/
 ---
