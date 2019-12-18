@@ -1,4 +1,4 @@
 ---
-title: Sub Page (Test A)
+title: Sub (Test A)
 permalink: /left-nav-one/testA/
 ---
