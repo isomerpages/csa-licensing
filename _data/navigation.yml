@@ -7,10 +7,6 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
   - title: Privacy Statement
     url: /privacy-statement/
   - title: Terms Of Use
@@ -23,3 +19,7 @@ links:
     collection: left-nav-two
   - title: Resource Room
     resource_room: true
+  - title: Faq
+    url: /faq/
+  - title: Contact Us
+    url: /contact-us/
