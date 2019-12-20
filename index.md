@@ -18,7 +18,7 @@ sections:
               url: https://google.com
             - title: Licensing Guidelines
               description: Information needed about a licence
-              url: /application-guidelines/
+              url: /application-guidelines/application-for-licence/
             - title: Find a Service Provider
               description: Licensed Service Provider and Individuals can be found here
               url: /privacy/
