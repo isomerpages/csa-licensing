@@ -23,8 +23,8 @@ sections:
               description: Licensed Service Provider and Individuals can be found here
               url: /privacy/
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: News and Updates
+        subtitle: resources
         button: View More              
         url: https://www.google.com
     - infobar:
