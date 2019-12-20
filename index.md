@@ -13,17 +13,15 @@ sections:
         button: learn more
         url: /who-we-are/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Apply for a licence
+              description: Link to LicenceOne
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: Licensing Guidelines
+              description: Information needed about a licence
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: Find a Service Provider
+              description: Licensed Service Provider and Individuals can be found here
               url: /privacy/
-            - title: Page B
-              description: Page A is important too bla
     - resources:
         title: Media
         subtitle: Learn more
