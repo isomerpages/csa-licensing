@@ -23,7 +23,7 @@ sections:
               description: Licensed Service Provider and Individuals can be found here
               url: /privacy/
     - resources:
-        title: News and Updates
+        title: News and Announcements
         subtitle: resources
         button: View More              
         url: https://www.google.com
