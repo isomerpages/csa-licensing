@@ -5,6 +5,8 @@ favicon: /images/favicon-isomer.ico
 collections:
   application-guidelines:
     output: true
+  legislation:
+    output: true
   left-nav-one:
     output: true
   left-nav-two:
