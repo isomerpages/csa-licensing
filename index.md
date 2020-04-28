@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: (Test) CSA Licensing
+        title: Test (Licensing)
         subtitle: (Test) We help regulate the cybersecurity service profession through ....
         background: /images/hero-banner.png
         button: learn more
