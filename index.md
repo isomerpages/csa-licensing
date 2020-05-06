@@ -16,7 +16,7 @@ sections:
             - title: Apply for a licence
               description: Link to LicenceOne
               url: https://google.com
-            - title: Licensing Application Guidelines
+            - title: License Application Guidelines
               description: Information needed about a licence
               url: /licence-application-guidelines/application-for-licence/overview
             - title: Find a Service Provider
