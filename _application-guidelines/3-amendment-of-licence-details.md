@@ -1,4 +1,0 @@
----
-title: Amendment of Licence Details
-permalink: /application-guidelines/amendment-of-licence-details/
----
