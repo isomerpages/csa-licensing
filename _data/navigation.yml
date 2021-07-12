@@ -13,7 +13,7 @@ links:
     collection: licence-application-guidelines
   - title: Resource Room
     resource_room: true
-  - title: Faq
-    url: /faq/
+  - title: Events
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
