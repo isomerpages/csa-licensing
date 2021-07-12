@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: <Insert Name of Office>
+        title: (Test) Name of Office
         subtitle: (Test) We help regulate the cybersecurity service profession through ....
         background: /images/hero-banner.png
         button: learn more
