@@ -16,19 +16,19 @@ sections:
             - title: Apply for a licence
               description: Link to LicenceOne
               url: https://google.com
-            - title: License Application Guidelines
-              description: Information needed about a licence
+            - title: Licence Application Guidelines
+              description: Information for applicants
               url: /licence-application-guidelines/application-for-licence/overview
             - title: Find a Service Provider
-              description: Licensed Service Provider and Individuals can be found here
+              description: List of licensees
               url: /privacy/
     - resources:
-        title: News and Announcements
+        title: Useful Links
         subtitle: resources
         button: View More              
         url: https://www.google.com
     - infobar:
-        title: Infobar title
+        title: Latest News
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Button text
