@@ -14,7 +14,7 @@ sections:
         url: /who-we-are/
         key_highlights:
             - title: Apply for a licence
-              description: Link to LicenceOne
+              description: Link to GoBusiness Licensing Portal
               url: https://google.com
             - title: Licence Application Guidelines
               description: Information for applicants
