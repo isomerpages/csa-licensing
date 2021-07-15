@@ -22,22 +22,17 @@ sections:
             - title: Find a Service Provider
               description: List of licensees
               url: /privacy/
-    - infobar:
+    - infopic:
         title: Latest News
         subtitle: Licence Application
         description: Application for licence is now open....
         button: Learn More
+        image: /images/Background.png
         url: /licence-application-guidelines/application-for-licence/overview
     - resources:
         title: Highlights
         subtitle: resources
         button: View More              
         url: https://www.google.com
-    - infobar:
-        title: Latest News
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
         
 ---
