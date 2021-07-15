@@ -19,7 +19,7 @@ Note:
 #### At A Glance
 |  |  |
 |--|--|
-|**Licence Fees for Each Licence**|Test testets  |
-|**Refund**  |Test test  |
-|**Licence Validity Period**|tese tes |
-|**Application Processing Time**  |tes tes t  |
+|**Licence Fees for Each Licence**|Test testets|
+|**Refund**|Test test|
+|**Licence Validity Period**|tese tes|
+|**Application Processing Time**|tes tes t|
