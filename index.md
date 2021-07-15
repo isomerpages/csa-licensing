@@ -2,7 +2,7 @@
 layout: homepage
 title: Licensing
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/background.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -22,12 +22,11 @@ sections:
             - title: Find a Service Provider
               description: List of licensees
               url: /privacy/
-    - infopic:
+    - infobar:
         title: Latest News
         subtitle: Licence Application
         description: Application for licence is now open....
         button: Learn More
-        image: /images/Background.png
         url: /licence-application-guidelines/application-for-licence/overview
     - resources:
         title: Highlights
