@@ -27,7 +27,7 @@ sections:
         subtitle: Licence Application
         description: Application for licence is now open....
         button: Learn More
-        url: /licence-application-guidelines/
+        url: /licence-application-guidelines/application-for-licence/overview
     - resources:
         title: Highlights
         subtitle: resources
