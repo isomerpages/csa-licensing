@@ -2,7 +2,7 @@
 layout: homepage
 title: Licensing
 description: Brief site description here
-image: /images/background.png
+image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
