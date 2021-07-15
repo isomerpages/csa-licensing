@@ -22,8 +22,14 @@ sections:
             - title: Find a Service Provider
               description: List of licensees
               url: /privacy/
+    - infobar:
+        title: Latest News
+        subtitle: Licence Application
+        description: Application for licence is now open....
+        button: Learn More
+        url: /licence-application-guidelines/
     - resources:
-        title: Useful Links
+        title: Highlights
         subtitle: resources
         button: View More              
         url: https://www.google.com
